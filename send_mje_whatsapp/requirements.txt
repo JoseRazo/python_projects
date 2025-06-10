@@ -1,0 +1,6 @@
+pyperclip
+pandas
+selenium
+openpyxl
+pyautogui
+# ES necesario instalar sudo pacman -S xclip para manjaro
